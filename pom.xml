@@ -17,6 +17,7 @@
     </parent>
 
     <modules>
+        <module>data-service-platform</module>
         <module>register-center</module>
         <module>permission-center</module>
     </modules>
