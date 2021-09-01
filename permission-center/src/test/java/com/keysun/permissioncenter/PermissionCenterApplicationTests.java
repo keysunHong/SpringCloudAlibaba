@@ -1,10 +1,10 @@
-package com.zichan360.dataserviceplatform;
+package com.keysun.permissioncenter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DataServicePlatformApplicationTests {
+class PermissionCenterApplicationTests {
 
     @Test
     void contextLoads() {

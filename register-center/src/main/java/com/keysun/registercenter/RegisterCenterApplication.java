@@ -1,4 +1,4 @@
-package com.zichan360.registercenter;
+package com.keysun.registercenter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
